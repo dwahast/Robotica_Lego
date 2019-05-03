@@ -1,0 +1,5 @@
+Na pasta do arquivo:
+nxjc DistMove.java
+
+nxjlink -o DistMove.nxj DistMove 
+nxjupload [-r] DistMove.nxj
